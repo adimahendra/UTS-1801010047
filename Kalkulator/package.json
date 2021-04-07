@@ -1,0 +1,12 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "Kalkulatorku",
+  "main": "./app/app.js",
+  "scripts": {
+	"start" : "electron ."
+  },
+  "devDependencies": {
+    "electron": "^12.0.2"
+  }
+}
