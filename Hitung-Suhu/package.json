@@ -1,0 +1,15 @@
+{
+  "name": "hitung-suhu",
+  "version": "1.0.0",
+  "description": "Aplikasi Hitung Suhu",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    "electron": "^12.0.2"
+  },
+  "devDependencies": {
+    "electron-packager": "^15.2.0"
+  }
+}
