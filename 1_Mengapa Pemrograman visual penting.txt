@@ -1,0 +1,8 @@
+1.	Mengapa Pemrograman Visual sangat penting untuk dipelajari ? 
+
+Menurut saya pemrogrmaman visual itu penting karena diajarkan tentang cara membuat aplikasi dekstop. 
+Dimana Hampir semua pengguna komputer menggunakan aplikasi desktop. Seperti salah satu framework yaitu 
+Electron memudahkan kita untuk membuat aplikasi desktop lintas-perangkat (cross-platform) 
+seperti pada Linux, Windows dan MacOS dengan menggunakan teknologi web (JavaScript). \
+Sehingga jika bisa membuat website, maka kita juga bisa membuat aplikasi desktop dengan mudah menggunakan Electron, 
+tanpa bersusah payah belajar bahasa pemprograman baru.
